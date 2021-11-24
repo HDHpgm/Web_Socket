@@ -1,6 +1,7 @@
 package com.example.websocket.model;
 
 public class MessageModel {
+
     private String message;
     private String fromLogin;
 
